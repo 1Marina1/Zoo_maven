@@ -1,6 +1,6 @@
 package ZooPackage;
 
-public class Owl extends Birds{
+public class Owl extends Birds{//used inheritance to get methods breathing() and moving()
     @Override
     public void breathing() {
         super.breathing();
@@ -11,5 +11,5 @@ public class Owl extends Birds{
     }
     public void neckAbility(){
         System.out.println("Owls can rotate their necks 270 degrees");
-    }
+    }//used interesting fact as a method
 }
