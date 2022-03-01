@@ -11,6 +11,6 @@ public class Parrot extends Birds{
     }
     public void tasteMethod(){
         System.out.println("Parrots taste with the tips of their beaks");
-    }
+    }//used eating specifics as a method
 
 }

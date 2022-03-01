@@ -1,6 +1,6 @@
 package ZooPackage;
 
-public class Giraffe extends Animals{
+public class Giraffe extends Animals{//used inheritance to get methods breathing() and moving()
     @Override
     public void breathing() {
         super.breathing();
@@ -11,5 +11,5 @@ public class Giraffe extends Animals{
     }
     public void bodyColoring(){
         System.out.println("I have dots all over my body");
-    }
+    }//used body description as a method
 }

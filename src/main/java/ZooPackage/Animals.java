@@ -1,6 +1,6 @@
 package ZooPackage;
 
-public abstract class Animals {
+public abstract class Animals { //The class which is a parent of all animal classes
     public void breathing() {
         System.out.println("I breath air with my lungs");
     }
