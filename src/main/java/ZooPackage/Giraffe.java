@@ -1,6 +1,6 @@
 package ZooPackage;
 
-public class Giraffe extends Animals{//used inheritance to get methods breathing() and moving()
+public class Giraffe extends Animal {//used inheritance to get methods breathing() and moving()
     @Override
     public void breathing() {
         super.breathing();

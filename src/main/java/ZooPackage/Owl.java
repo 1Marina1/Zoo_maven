@@ -1,6 +1,6 @@
 package ZooPackage;
 
-public class Owl extends Birds{//used inheritance to get methods breathing() and moving()
+public class Owl extends Bird {//used inheritance to get methods breathing() and moving()
     @Override
     public void breathing() {
         super.breathing();

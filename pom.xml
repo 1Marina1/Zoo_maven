@@ -18,6 +18,12 @@
         <artifactId>doxia-site-renderer</artifactId>
         <version>1.4</version>
     </dependency>
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>RELEASE</version>
+            <scope>test</scope>
+        </dependency>
     </dependencies>
 
     <reporting>

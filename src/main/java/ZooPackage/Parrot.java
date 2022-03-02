@@ -1,6 +1,8 @@
 package ZooPackage;
 
-public class Parrot extends Birds{
+public class Parrot extends Bird {
+
+
     @Override
     public void breathing() {
         super.breathing();
